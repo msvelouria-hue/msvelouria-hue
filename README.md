@@ -11,7 +11,7 @@ I like building across the whole stack: product design, mobile UI, backend data 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Velune](https://github.com/msvelouria-hue/velune) | Full-stack mobile app for AI wardrobe capture, cloud sync, and outfit recommendations | React Native, Expo, TypeScript, Firebase, Cloud Functions, OpenAI |
-| [Velune Website Launchpad](https://github.com/msvelouria-hue/website-launchpad) | Public product site and policy pages for Velune | React, TypeScript, Vite, Tailwind |
+| Velune Website Launchpad | Product site and policy pages for Velune, built with a small React/Vite deployment flow | React, TypeScript, Vite, Tailwind |
 | [Wardrobe Insights](https://github.com/msvelouria-hue/wardrobe-insights) | Small Python data project for wardrobe usage and freshness scoring | Python, SQLite, unittest |
 | [Expo Public Secret Audit](https://github.com/msvelouria-hue/expo-public-secret-audit) | Tiny CLI for catching risky `EXPO_PUBLIC_*` secret names in Expo projects | Python, CLI, unittest |
 | [Portfolio](https://msvelouria-hue.github.io/portfolio/) | A quick overview of my engineering projects | HTML, CSS, GitHub Pages |
