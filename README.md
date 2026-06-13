@@ -1,50 +1,30 @@
-# Sabrina Olliphant
+# Hi, I'm Sabrina.
 
-Full-stack builder focused on AI-assisted consumer products, reliable data flows, and clear developer documentation.
+I'm an engineer and product builder interested in practical, user-facing AI products.
 
-## Featured Work
+My main project is **Velune**, an AI-powered wardrobe assistant I built and shipped through **VUXO I, CORP.**, the company behind the app. Velune helps people digitize their closet and get outfit suggestions from clothes they already own, using React Native / Expo, Firebase, Firestore, Cloud Functions, and OpenAI.
 
-| Project | Stack | What to Look At |
+I like building across the whole stack: product design, mobile UI, backend data models, AI features, testing, docs, and launch details. I also have bioinformatics experience from BreakBio, where I worked with variant-calling pipelines and compared outputs across normal and cancer tissue samples.
+
+## Projects
+
+| Project | What it is | Stack |
 | --- | --- | --- |
-| [Velune app](https://github.com/msvelouria-hue/velune) | React Native, Expo, TypeScript, Firebase Auth, Firestore, Storage, Cloud Functions, OpenAI | Full-stack mobile architecture, secure AI proxy pattern, offline-first sync, Firestore schema, and recommendation logic |
-| [Velune Website Launchpad](https://github.com/msvelouria-hue/website-launchpad) | Vite, React, TypeScript, React Router, Tailwind CSS, shadcn/Radix UI | Public product site, policy routes, static deployment flow, and accessible component structure |
-| [Wardrobe Insights](https://github.com/msvelouria-hue/wardrobe-insights) | Python, SQLite, unittest, CLI | Clean Python data project with a normalized schema, tested analytics logic, architecture notes, and local setup |
-| [Expo Public Secret Audit](https://github.com/msvelouria-hue/expo-public-secret-audit) | Python, CLI, unittest | Small focused automation tool that scans Expo env files for risky `EXPO_PUBLIC_*` secret names |
-| [Portfolio](https://msvelouria-hue.github.io/portfolio/) | HTML, CSS, GitHub Pages | Polished personal portfolio with featured engineering projects and contact links |
+| [Velune](https://github.com/msvelouria-hue/velune) | Full-stack mobile app for AI wardrobe capture, cloud sync, and outfit recommendations | React Native, Expo, TypeScript, Firebase, Cloud Functions, OpenAI |
+| [Velune Website Launchpad](https://github.com/msvelouria-hue/website-launchpad) | Public product site and policy pages for Velune | React, TypeScript, Vite, Tailwind |
+| [Wardrobe Insights](https://github.com/msvelouria-hue/wardrobe-insights) | Small Python data project for wardrobe usage and freshness scoring | Python, SQLite, unittest |
+| [Expo Public Secret Audit](https://github.com/msvelouria-hue/expo-public-secret-audit) | Tiny CLI for catching risky `EXPO_PUBLIC_*` secret names in Expo projects | Python, CLI, unittest |
+| [Portfolio](https://msvelouria-hue.github.io/portfolio/) | A quick overview of my engineering projects | HTML, CSS, GitHub Pages |
 
-## What I Optimize For
+## What I Care About
 
-- Clean system boundaries between client, backend, data model, and third-party services
-- Secure handling of API keys and user data
-- Typed domain models that make product behavior easier to reason about
-- README files that explain how the system works, not just how to install it
-- Local development environments that a reviewer can run without guesswork
-
-## Current Documentation Standard
-
-Every featured technical repo should include:
-
-- Product overview and user problem
-- Tech stack
-- Architecture diagram or module map
-- Architecture decisions and tradeoffs
-- Database schema or an explicit "no database" note
-- Local setup instructions from clone to running app
-- Environment variable documentation
-- Test, lint, typecheck, and build commands
-- Deployment notes
-
-## Pinned Repositories
-
-1. [Wardrobe Insights](https://github.com/msvelouria-hue/wardrobe-insights): clean Python data project with tests and a real schema
-2. [Velune app](https://github.com/msvelouria-hue/velune): full-stack React Native, Firebase, and AI mobile app
-3. [Velune Website Launchpad](https://github.com/msvelouria-hue/website-launchpad): polished React/TypeScript product site
-4. [Expo Public Secret Audit](https://github.com/msvelouria-hue/expo-public-secret-audit): focused automation/security utility
-5. [Portfolio](https://github.com/msvelouria-hue/portfolio): polished frontend project deployed with GitHub Pages
-6. [msvelouria-hue](https://github.com/msvelouria-hue/msvelouria-hue): concise GitHub profile README and technical portfolio index
+- Turning ambiguous ideas into working products
+- Making AI features useful, not flashy
+- Keeping user data and API keys on the right side of the client/server boundary
+- Writing code and documentation that someone else can actually run
+- Learning quickly and building things that survive contact with real users
 
 ## Contact
 
-- GitHub: [msvelouria-hue](https://github.com/msvelouria-hue)
 - Portfolio: [msvelouria-hue.github.io/portfolio](https://msvelouria-hue.github.io/portfolio/)
-- LinkedIn: [sabrina-olliphant-43b7a2263](https://www.linkedin.com/in/sabrina-olliphant-43b7a2263/)
+- LinkedIn: [linkedin.com/in/sabrina-olliphant-43b7a2263](https://www.linkedin.com/in/sabrina-olliphant-43b7a2263/)
