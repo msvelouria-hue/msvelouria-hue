@@ -34,7 +34,7 @@ Every featured technical repo should include:
 - Test, lint, typecheck, and build commands
 - Deployment notes
 
-## Suggested Pinned Repositories
+## Pinned Repositories
 
 1. [Wardrobe Insights](https://github.com/msvelouria-hue/wardrobe-insights): clean Python data project with tests and a real schema
 2. [Velune app](https://github.com/msvelouria-hue/velune): full-stack React Native, Firebase, and AI mobile app
